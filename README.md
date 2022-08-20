@@ -6,8 +6,8 @@
 Here are some ideas to get you started: 
 -->
 
-- 🔭 I’m currently working on a social website designed for clubs. You can find it [here](https://sukhbeerdhillon.me)
-- 🌱 I’m currently learning Machine Learning from Coursera.
+- 🔭 Find my blog [here](https://sukhbeerdhillon.com), which i sometimes update.
+- 🌱 I’m currently learning Machine Learning using Tensorflow from Coursera.
 - 💬 Ask me about NodeJs and React development.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Wannabe Policy Maker for Tech.
