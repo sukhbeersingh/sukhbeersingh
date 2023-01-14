@@ -6,7 +6,7 @@
 Here are some ideas to get you started: 
 -->
 
-- 🔭 Find my blog [here](https://sukhbeerdhillon.com), which i sometimes update.
+- 🔭 Find my blog [here](https://sukhbeerdhillon.medium.com), which i sometimes update.
 - 🌱 I’m currently learning Machine Learning using Tensorflow from Coursera.
 - 💬 Ask me about NodeJs and React development.
 - 😄 Pronouns: he/him/his
